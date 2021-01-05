@@ -1,8 +1,12 @@
 ### Hi there 👋
 
-I'm a Master Degree student in Artificial Intelligence at University of Pisa.
+I'm a Master Degree student in Artificial Intelligence @ University of Pisa.
 
+<br/>
 
+**Previous education:**
+
+Bachelor's degree: I graduated with 110/110 in Digital Humanities @ University of Pisa (A.Y. 2015/16 - 2017/18)
 
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dilettagoglia&show_icons=true&theme=calm" />
