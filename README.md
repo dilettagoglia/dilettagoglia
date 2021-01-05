@@ -2,6 +2,8 @@
 
 I'm a Master Degree student in Artificial Intelligence at University of Pisa.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dilettagoglia=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **dilettagoglia/dilettagoglia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
