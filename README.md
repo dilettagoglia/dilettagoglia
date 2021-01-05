@@ -2,9 +2,15 @@
 
 I'm a Master Degree student in Artificial Intelligence at University of Pisa.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dilettagoglia&layout=compact&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dilettagoglia&show_icons=true&theme=calm)
+
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dilettagoglia&show_icons=true&theme=calm" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilettagoglia&layout=compact&theme=calm" />
+</a>
+
 
 <!--
 **dilettagoglia/dilettagoglia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
