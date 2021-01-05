@@ -14,10 +14,10 @@ I'm a Master Degree student in Artificial Intelligence at University of Pisa.
 
 Check my repositories!
 
-<a href="">
+<a href="https://github.com/dilettagoglia/Signal-Processing">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dilettagoglia&repo=Signal-Processing&theme=calm" />
 </a>
-<a href="">
+<a href="https://github.com/dilettagoglia/DataMining">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dilettagoglia&repo=DataMining&theme=calm" />
 </a>
 
