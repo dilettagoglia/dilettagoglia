@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a mastre degree student in Artificial Intelligence at University of Pisa.
+
 <!--
 **dilettagoglia/dilettagoglia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
