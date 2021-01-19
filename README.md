@@ -17,7 +17,7 @@ Bachelor's degree: I graduated with 110/110 in Digital Humanities @ University o
 
 <br/><br/>
 
-Check my repositories!
+Check my last projects!
 
 <a href="https://github.com/dilettagoglia/Signal-Processing">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dilettagoglia&repo=Signal-Processing&theme=calm" />
