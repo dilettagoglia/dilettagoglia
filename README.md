@@ -1,12 +1,10 @@
 ### Hi there 👋
 
-I'm a Master Degree student in Artificial Intelligence @ University of Pisa.
+- 🎓 I'm a Master Degree student in Artificial Intelligence @University of Pisa.
+- 💻 Check my <a href="https://dilettagoglia.netlify.app/"><b>website</b></a> !
+- 📫 You can reach me there: <a href= "mailto:diletta.goglia@gmail.com">diletta.goglia@gmail.com</a>
 
-<br/>
-
-**Previous education:**
-
-Bachelor's degree: I graduated with 110/110 in Digital Humanities @ University of Pisa (A.Y. 2015/16 - 2017/18)
+<br/><br/>
 
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dilettagoglia&show_icons=true&theme=calm" />
@@ -17,7 +15,7 @@ Bachelor's degree: I graduated with 110/110 in Digital Humanities @ University o
 
 <br/><br/>
 
-Check my last projects!
+These are my last projects!
 
 <a href="https://github.com/dilettagoglia/Signal-Processing">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dilettagoglia&repo=Signal-Processing&theme=calm" />
