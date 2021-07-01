@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 - 🎓 I'm a MSc student in Artificial Intelligence @University of Pisa.
 - 💻 Check my <a href="https://dilettagoglia.netlify.app/"><b>website</b></a> !
