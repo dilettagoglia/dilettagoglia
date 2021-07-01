@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🎓 I'm a Master Degree student in Artificial Intelligence @University of Pisa.
+- 🎓 I'm a MSc student in Artificial Intelligence @University of Pisa.
 - 💻 Check my <a href="https://dilettagoglia.netlify.app/"><b>website</b></a> !
 - 📫 You can reach me there: <a href= "mailto:diletta.goglia@gmail.com">diletta.goglia@gmail.com</a>
 
