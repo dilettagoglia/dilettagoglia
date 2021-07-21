@@ -1,7 +1,8 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-- 🎓 I'm a MSc student in Artificial Intelligence @University of Pisa.
-- 💻 Check my <a href="https://dilettagoglia.netlify.app/"><b>website</b></a> !
+- 🎓 I'm a MSc student in <b>Artificial Intelligence</b> @University of Pisa.
+- 💻 Check my <a href="https://dilettagoglia.netlify.app/"><b>website</b></a> 
+- 📃 Read my <a href="https://medium.com/@d.goglia"><b>Medium stories</b></a>
 - 📫 You can reach me there: <a href= "mailto:diletta.goglia@gmail.com">diletta.goglia@gmail.com</a>
 
 <br/><br/>
