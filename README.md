@@ -1,8 +1,9 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-- 🎓 I'm a MSc student in <b>Artificial Intelligence</b> @University of Pisa.
-- 💻 Check my <a href="https://dilettagoglia.netlify.app/"><b>website</b></a> 
-- 📃 Read my <a href="https://medium.com/@d.goglia"><b>Medium stories</b></a>
+- 🎓 MSc student in <b>Artificial Intelligence</b> @University of Pisa.
+- 👔 ML researcher in Computational Social Science <a href="https://hummingbird-h2020.eu/">@HumMingBird</a>
+- 📃 <a href="https://medium.com/@d.goglia">Medium</a> writer for <a href="https://medium.com/analytics-vidhya">Analytics Vidhya</a>
+- 💻 Check my <a href="https://dilettagoglia.netlify.app/">portfolio</a> 
 - 📫 You can reach me there: <a href= "mailto:diletta.goglia@gmail.com">diletta.goglia@gmail.com</a>
 
 <br/><br/>
