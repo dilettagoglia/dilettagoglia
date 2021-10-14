@@ -4,7 +4,7 @@
 - 👔 ML researcher in Computational Social Science <a href="https://hummingbird-h2020.eu/">@HumMingBird</a>
 - 📃 <a href="https://medium.com/@d.goglia">Medium</a> writer for <a href="https://medium.com/analytics-vidhya">Analytics Vidhya</a>
 - 💻 Check my <a href="https://dilettagoglia.netlify.app/">portfolio</a> 
-- 📫 You can reach me there: <a href= "mailto:diletta.goglia@gmail.com">diletta.goglia@gmail.com</a>
+- 📫 You can reach me there: <a href= "mailto:d.goglia@studenti.unipi.it">diletta.goglia@gmail.com</a>
 
 <br/>
 
@@ -15,7 +15,7 @@
 
 <!-- LANGUAGES -->
 <a href="https://github.com/dilettagoglia">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilettagoglia&layout=compact&theme=calm&hide=jupyter%20notebook,html,css,xslt" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilettagoglia&layout=compact&theme=calm&hide=jupyter%20notebook,html,css,xslt,shell" />
 </a>
 
 
