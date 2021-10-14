@@ -7,7 +7,7 @@
 - 🎓 MSc student in <b>Artificial Intelligence</b> @University of Pisa.
 - 👔 ML researcher in Computational Social Science <a href="https://hummingbird-h2020.eu/">@HumMingBird</a>
 - 📃 <a href="https://medium.com/@d.goglia">Medium</a> writer for <a href="https://medium.com/analytics-vidhya">Analytics Vidhya</a>
-- 💻 Check my <a href="https://dilettagoglia.netlify.app/">portfolio</a> 
+- 💻 Check my <a href="https://dilettagoglia.netlify.app/">portfolio</a> <img width="30px" src="https://media.giphy.com/media/MEXDXaPnvIkoSd1DMl/giphy.gif">
 - 📫 You can reach me there: <a href= "mailto:d.goglia@studenti.unipi.it">d.goglia@studenti.unipi.it</a>
 
 ### Languages and Tools: 
