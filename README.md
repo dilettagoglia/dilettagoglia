@@ -6,24 +6,42 @@
 - 💻 Check my <a href="https://dilettagoglia.netlify.app/">portfolio</a> 
 - 📫 You can reach me there: <a href= "mailto:diletta.goglia@gmail.com">diletta.goglia@gmail.com</a>
 
-<br/><br/>
+<br/>
 
-<a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dilettagoglia&show_icons=true&theme=calm" />
-</a>
-<a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilettagoglia&layout=compact&theme=calm" />
+<!-- STATISTICS -->
+<a href="https://github.com/dilettagoglia">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dilettagoglia&layout=compact&theme=calm&show_icons=true" />
 </a>
 
+<!-- LANGUAGES -->
+<a href="https://github.com/dilettagoglia">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilettagoglia&layout=compact&theme=calm&hide=jupyter%20notebook,html,css,xslt" />
+</a>
+
+
 <br/><br/>
 
-These are my last projects!
+### Currently working on:
+
+<a href="https://github.com/dilettagoglia/impl-NN-from-scratch">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dilettagoglia&repo=impl-NN-from-scratch&theme=aura_dark" />
+</a>
+<a href="https://github.com/dilettagoglia/unconstrained-optimization">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dilettagoglia&repo=unconstrained-optimization&theme=aura_dark" />
+</a>
+<a href="https://github.com/dilettagoglia/Algorithm-Engineering">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dilettagoglia&repo=Algorithm-Engineering&theme=aura_dark" />
+</a>
+
+<br/><br/>
+
+### My latest project
 
 <a href="https://github.com/dilettagoglia/Signal-Processing">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dilettagoglia&repo=Signal-Processing&theme=calm" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dilettagoglia&repo=Signal-Processing&theme=nightowl" />
 </a>
 <a href="https://github.com/dilettagoglia/DataMining">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dilettagoglia&repo=DataMining&theme=calm" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dilettagoglia&repo=DataMining&theme=nightowl" />
 </a>
 
 <!--
