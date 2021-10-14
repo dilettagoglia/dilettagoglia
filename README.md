@@ -1,10 +1,37 @@
+
+
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dilettagoglia&label=Profile%20views&color=0e75b6&style=flat" alt="dilettagoglia" /> </p>
 
 - 🎓 MSc student in <b>Artificial Intelligence</b> @University of Pisa.
 - 👔 ML researcher in Computational Social Science <a href="https://hummingbird-h2020.eu/">@HumMingBird</a>
 - 📃 <a href="https://medium.com/@d.goglia">Medium</a> writer for <a href="https://medium.com/analytics-vidhya">Analytics Vidhya</a>
 - 💻 Check my <a href="https://dilettagoglia.netlify.app/">portfolio</a> 
 - 📫 You can reach me there: <a href= "mailto:d.goglia@studenti.unipi.it">d.goglia@studenti.unipi.it</a>
+
+### Languages and Tools: 
+
+<div>
+  <img width="26px" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
+  <img align="left" alt="PyCharm" width="26px" src="https://raw.githubusercontent.com/github/explore/d8574c7bce27faa27fb879bca56dfe351ee66efd/topics/pycharm/pycharm.png" />
+  <img align="left" alt="JuPyter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png">
+  <img align="left" alt="Keras" height="20" src="https://raw.githubusercontent.com/github/explore/cf9a84017e3cdd93aeb635d9b85379ba67d62031/topics/keras/keras.png">
+  <img align="left" alt="Tensorflow" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png">
+  <img align="left" alt="" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
+  <img align="left" alt="" height="20" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png">
+  <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+  <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+  <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+  <img align="left" alt="" height="20" src="">
+  <img align="left" alt="" height="20" src="">
+  <img align="left" alt="" height="20" src="">
+</div>
+
+<br/><br/>
+### GitHub activity:
+<!-- TROPHY -->
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=dilettagoglia&theme=gruvbox&no-bg=true" alt="dilettagoglia" /> </p>
 
 <br/>
 
