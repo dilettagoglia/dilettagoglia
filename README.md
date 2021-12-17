@@ -4,11 +4,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dilettagoglia&label=Profile%20views&color=0e75b6&style=flat" alt="dilettagoglia" /> </p>
 
+Brief recap of my current activity:
 - 🎓 MSc student in <b>Artificial Intelligence</b> @University of Pisa.
-- 👔 ML research assistant in Computational Social Science <a href="https://hummingbird-h2020.eu/">@HumMingBird</a>
-- 📃 <a href="https://medium.com/@d.goglia">Medium</a> writer for <a href="https://medium.com/analytics-vidhya">Analytics Vidhya</a>
+- 👔 ML research assistant for understanding and nowcasting human migration <a href="https://hummingbird-h2020.eu/">@HumMingBird</a> Horizon 2020 EU project.
+- ✍🏻 <a href="https://medium.com/@d.goglia">Medium</a> writer for <a href="https://medium.com/analytics-vidhya">Analytics Vidhya</a>
 - 💻 Check my <a href="https://dilettagoglia.netlify.app/">portfolio</a> <img width="30px" src="https://media.giphy.com/media/MEXDXaPnvIkoSd1DMl/giphy.gif">
 - 📫 You can reach me there: <a href= "mailto:d.goglia@studenti.unipi.it">d.goglia@studenti.unipi.it</a>
+- 📑 My <a href="https://dilettagoglia.netlify.app/uploads/cv/resume-diletta-goglia.pdf"><b>résumé</b></a>
+
+#### Interests
+- Computational Social Science
+- Data Mining
+- Deep Learning and Neural Models
+- Signal processing and analysis
 
 ### Languages and Tools: 
 
