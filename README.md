@@ -61,14 +61,11 @@ Brief recap of my current activity:
 
 ### Currently working on:
 
-<a href="https://github.com/dilettagoglia/impl-NN-from-scratch">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dilettagoglia&repo=impl-NN-from-scratch&theme=aura_dark" />
-</a>
 <a href="https://github.com/dilettagoglia/unconstrained-optimization">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dilettagoglia&repo=unconstrained-optimization&theme=aura_dark" />
 </a>
-<a href="https://github.com/dilettagoglia/Algorithm-Engineering">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dilettagoglia&repo=Algorithm-Engineering&theme=aura_dark" />
+<a href="https://github.com/dilettagoglia/MIMI-dataset">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dilettagoglia&repo=MIMI-dataset&theme=aura_dark" />
 </a>
 
 <br/><br/>
