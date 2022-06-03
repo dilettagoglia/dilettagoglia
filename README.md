@@ -1,6 +1,6 @@
 
 
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there 👋🏻
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dilettagoglia&label=Profile%20views&color=0e75b6&style=flat" alt="Diletta Goglia" /> </p>
 
@@ -8,15 +8,15 @@ Brief recap of my current activity:
 - 🎓 MSc student in <b>Artificial Intelligence</b> @<a href='https://didattica.di.unipi.it/en/master-programme-in-computer-science/curricula-2/curriculum-%c2%93artificial-intelligence%c2%94-2/' target="_blank">University of Pisa</a>.
 - 👔 ML research assistant for understanding and nowcasting human migration <a href="https://hummingbird-h2020.eu/" target="_blank">@HumMingBird</a> Horizon 2020 EU project.
 - ✍🏻 <a href="https://medium.com/@d.goglia" target="_blank">Medium</a> writer for <a href="https://medium.com/analytics-vidhya" target="_blank">Analytics Vidhya</a>
-- 💻 Check my <a href="https://dilettagoglia.netlify.app/" target="_blank">portfolio</a> <img width="30px" src="https://media.giphy.com/media/MEXDXaPnvIkoSd1DMl/giphy.gif">
+- 💻 Check my <a href="https://dilettagoglia.netlify.app/" target="_blank">portfolio</a>
 - 💼 For academic activity read my <a href="https://dilettagoglia.netlify.app/uploads/cv/scientific-cv-diletta-goglia.pdf" target="_blank"><b>Scientific CV</b></a>
 - 📑 My <a href="https://dilettagoglia.netlify.app/uploads/cv/resume-diletta-goglia.pdf" target="_blank"><b>résumé</b></a>
 
 ### Contact
-- ✉️ Institutional email: <a href= "mailto:d.goglia@studenti.unipi.it" target="_blank">d.goglia@studenti.unipi.it</a>
-- <img src="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif" width="25px"> Linkedin: <a href='https://www.linkedin.com/in/dilettagoglia/' target="_blank">Diletta Goglia</a>
-- <img src="https://media.giphy.com/media/H508mck9ufO9q6z76O/giphy.gif" width="25px"> Twitter: <a href='https://twitter.com/dilettagoglia' target="_blank">@dilettagoglia</a>
-- <img src="https://media.giphy.com/media/stneg6zcHqtNj2jjTw/giphy.gif" width="25px"> Google Scholar: <a href='https://scholar.google.com/citations?user=_81HzBIAAAAJ&hl=en' target="_blank">Diletta Goglia</a>
+- Institutional email: <a href= "mailto:d.goglia@studenti.unipi.it" target="_blank">d.goglia@studenti.unipi.it</a>
+- Linkedin: <a href='https://www.linkedin.com/in/dilettagoglia/' target="_blank">Diletta Goglia</a>
+- Twitter: <a href='https://twitter.com/dilettagoglia' target="_blank">@dilettagoglia</a>
+- Google Scholar: <a href='https://scholar.google.com/citations?user=_81HzBIAAAAJ&hl=en' target="_blank">Diletta Goglia</a>
 
 
 #### Interests
