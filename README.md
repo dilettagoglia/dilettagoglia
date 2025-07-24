@@ -26,10 +26,6 @@ Brief recap of my activity:
 
 
 ### GitHub activity:
-<!-- TROPHY -->
-<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=dilettagoglia&theme=gruvbox&no-bg=true" alt="dilettagoglia" /> </p>
-
-<br/>
 
 <!-- STATISTICS -->
 <a href="https://github.com/dilettagoglia">
@@ -54,12 +50,13 @@ Brief recap of my activity:
 
 ### Latest projects:
 
-<a href="https://github.com/dilettagoglia/reddit-majority-opinion">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dilettagoglia&repo=reddit-majority-opinion&theme=nightowl" />
-</a>
 <a href="https://github.com/uuinfolab/Structure_and_dynamics_of_growing_networks_of_Reddit_threads">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=uuinfolab&repo=Structure_and_dynamics_of_growing_networks_of_Reddit_threads&theme=nightowl" />
 </a>
+<a href="https://github.com/dilettagoglia/reddit-majority-opinion">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dilettagoglia&repo=reddit-majority-opinion&theme=nightowl" />
+</a>
+
 
 <!--
 **dilettagoglia/dilettagoglia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
