@@ -13,11 +13,12 @@ Brief recap of my activity:
 - 📌 Former research assistant "ML to understand and nowcast human migration" @<a href="https://hummingbird-h2020.eu/" target="_blank">HumMingBird</a> Horizon 2020 EU project.
   
 ### Contact
-- Webpage: <a href="https://www.uu.se/kontakt-och-organisation/personal?query=N22-2715">uu.se/kontakt/goglia</a>
+- Homepage: <a href="https://dilettagoglia.github.io/main/">/dilettagoglia.github.io</a>
+- UU Webpage: <a href="https://www.uu.se/kontakt-och-organisation/personal?query=N22-2715">uu.se/kontakt/goglia</a>
 - Email: <a href= "mailto:diletta.goglia@it.uu.se" target="_blank">diletta.goglia@it.uu.se</a>
 - Scholar: <a href='https://scholar.google.com/citations?user=_81HzBIAAAAJ&hl=en' target="_blank">Diletta Goglia</a>
 - Bluesky: <a href='https://bsky.app/profile/dilettagoglia.bsky.social' target="_blank">@dilettagoglia.bsky.social</a>
-- Linkedin: <a href='https://www.linkedin.com/in/dilettagoglia/' target="_blank">Diletta Goglia</a>
+<!-- - Linkedin: <a href='https://www.linkedin.com/in/dilettagoglia/' target="_blank">Diletta Goglia</a> -->
 
 
 #### Research Interests
